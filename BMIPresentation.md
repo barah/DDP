@@ -1,0 +1,32 @@
+BMI Calculator 
+========================================================
+author: Abdullah AlBar
+date: 8/23/2014
+
+What is BMI?
+========================================================
+
+BMI stand for Body Mass Index and it is measurement tool that compares your height to your weight and gives you an indication of whether you are overweight, underweight or at a healthy weight for your height.
+
+
+
+Why it is important? 
+========================================================
+Maintaining the health weight will reduce the risk of the following diseases:
+- Heart attack 
+- High Blood pressure 
+- High cholesterol
+- Diabetes
+
+How to use the application?
+========================================================
+Simply choose your age, weight and height from the slider and then click submit.  
+The system will return you your BMI. 
+
+What the result mean?
+========================================================
+- BMI of less than 18.5 Underweight 
+- BMI between 18.6 and 24.9 healthy weight 
+- BMI between 25 and 29.9 overweight
+- BMI of 30 or greater indicates obesity 
+
